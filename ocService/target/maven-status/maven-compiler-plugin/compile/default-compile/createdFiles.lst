@@ -1,0 +1,5 @@
+com\online\college\core\auth\service\IAuthUserService.class
+com\online\college\core\auth\service\impl\AuthUserServiceImpl.class
+com\online\college\core\auth\dao\AuthUserDao.class
+com\online\college\test\dao\TestDao.class
+com\online\college\core\auth\domain\AuthUser.class
